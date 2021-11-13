@@ -1,0 +1,9 @@
+Package: moveMemberFiles
+Version: 1.0
+Section: python
+Priority: optional
+Architecture: all
+Depends: python
+Maintainer: mario <you@email.com>
+Description: Script to move files of members of a group to a target archive location.
+ <group name> <path to the archive> 
